@@ -1,2 +1,2 @@
 # TTT
-Graphical Tic Tac Toe with working interface
+Text-Based Tic Tac Toe with working interface
